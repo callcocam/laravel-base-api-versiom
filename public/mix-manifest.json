@@ -1,0 +1,21 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/lazy-load/acl.js": "/js/lazy-load/acl.js",
+    "/js/lazy-load/admin.js": "/js/lazy-load/admin.js",
+    "/js/lazy-load/auth.js": "/js/lazy-load/auth.js",
+    "/js/lazy-load/dashboards.js": "/js/lazy-load/dashboards.js",
+    "/js/lazy-load/forgot.js": "/js/lazy-load/forgot.js",
+    "/js/lazy-load/login.js": "/js/lazy-load/login.js",
+    "/js/lazy-load/middlewares.js": "/js/lazy-load/middlewares.js",
+    "/js/lazy-load/posts.js": "/js/lazy-load/posts.js",
+    "/js/lazy-load/profile.js": "/js/lazy-load/profile.js",
+    "/js/lazy-load/profile~setting.js": "/js/lazy-load/profile~setting.js",
+    "/js/lazy-load/register.js": "/js/lazy-load/register.js",
+    "/js/lazy-load/reset.js": "/js/lazy-load/reset.js",
+    "/js/lazy-load/roles.js": "/js/lazy-load/roles.js",
+    "/js/lazy-load/setting.js": "/js/lazy-load/setting.js",
+    "/js/lazy-load/translations.js": "/js/lazy-load/translations.js",
+    "/js/lazy-load/permissions.js": "/js/lazy-load/permissions.js",
+    "/js/lazy-load/middlewares~permissions~profile~roles~translations.js": "/js/lazy-load/middlewares~permissions~profile~roles~translations.js"
+}
